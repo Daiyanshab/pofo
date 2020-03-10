@@ -1,0 +1,176 @@
+.header-section{
+
+padding-top: 10px;
+
+padding-bottom: 10px;
+}
+.header-section .container{
+
+width: 1000px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+display: flex;
+
+flex-wrap: nowrap;
+}
+.logo{
+    flex-basis: 20%;
+    /* height: 10px; */
+    /* width: 50%; */
+}
+.logo img{
+    /* width: auto; */
+    width: 68%;
+    padding-top: 10px;
+}
+nav{
+    flex-basis: 80%;
+}
+nav ul{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 380px;
+}
+nav ul li{
+    list-style: none;
+    margin-left: 21px;
+    text-transform: uppercase;
+}
+nav ul li a{
+	
+color: #191414f5;
+	
+font-weight: 600;
+	
+font-size: 14px;
+	
+font-family: sans-serif;
+	
+text-decoration: none;
+}
+
+
+.banner-section-one{background-image: url(../images/y.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;background-position-y: top;}
+
+section.banner-section-one{}
+.banner-section-one .one{
+	
+padding-left: 123px;
+	
+padding-top: 189px;
+}
+.banner-section-one h1{
+	
+font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-one button {background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;}
+
+.banner-section-two{background-image: url(../images/b.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+
+section.banner-section-two{}
+.banner-section-two .two{
+	padding-left: 123px;
+	
+padding-top: 189px;
+}
+.banner-section-two h1{
+	font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-two button {
+	background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;
+}
+.banner-section-three{background-image: url(../images/g.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+
+section.banner-section-three{}
+.banner-section-three .three{
+	padding-left: 123px;
+	
+padding-top: 189px;
+}
+.banner-section-three h1{
+	font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-three button {
+	background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;
+}
+.banner-section-four{background-image: url(../images/p.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+
+section.banner-section-four{padding-left: 123px;
+	
+padding-top: 189px;}
+.banner-section-four .four{
+	
+}
+.banner-section-four h1{
+	font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-four button {
+	background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;
+}
+.banner-section-five{background-image: url(../images/lp.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+
+section.banner-section-five{padding-left: 123px;
+	
+padding-top: 189px;}
+.banner-section-five .five{
+	
+}
+.banner-section-five h1{
+	font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-five button {
+	background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;
+}
+.banner-section-six{background-image: url(../images/last.jpg);padding-top: 300px;padding-bottom: 300px;background-size: cover;background-repeat: no-repeat;background-attachment: fixed;}
+
+section.banner-section-six{padding-left: 123px;
+	
+padding-top: 189px;}
+.banner-section-six .six{
+	
+}
+.banner-section-six h1{
+	font-size: 11px;
+	
+color: #312c2cc4;
+	
+text-transform: uppercase;
+	
+letter-spacing: 1px;
+}
+.banner-section-six button {
+	background: black;color: white;width: 130px;border-color: black;font-size: 10px;height: 31px;text-transform: uppercase;
+}
